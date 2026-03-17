@@ -1,0 +1,51 @@
+user_id,variation,country_code,platform,install_dt,created_at,revenue_amount,cashout_amount,ad_unit_format,revenue_type,net_revenue
+46cfec0c-fe21-4d4b-8962-585e1416ff02,androidnd7order,us,android,2025-01-16,2025-01-16,0.17225692,0.0,Banner,ad,0.17225692
+46cfec0c-fe21-4d4b-8962-585e1416ff02,androidnd7order,us,android,2025-01-16,2025-01-16,1.003817,0.0,Interstitial,ad,1.003817
+46cfec0c-fe21-4d4b-8962-585e1416ff02,androidnd7order,us,android,2025-01-16,2025-01-16,0.0,0.0,Unknown,ad,0.0
+6359ca3e-5616-42af-8ca1-39053648f33e,androidnd7order,us,android,2025-01-16,2025-01-16,0.0442796,0.0,Interstitial,ad,0.0442796
+6359ca3e-5616-42af-8ca1-39053648f33e,androidnd7order,us,android,2025-01-16,2025-01-16,4.440518,0.0,Unknown,offerwall,4.440518
+6359ca3e-5616-42af-8ca1-39053648f33e,androidnd7order,us,android,2025-01-16,2025-01-18,0.0,1.99,Unknown,cashout,-1.99
+6359ca3e-5616-42af-8ca1-39053648f33e,androidnd7order,us,android,2025-01-16,2025-01-16,0.0,0.0,Unknown,ad,0.0
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-16,0.118654074,0.0,Banner,ad,0.118654074
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-17,0.239044955,0.0,Banner,ad,0.239044955
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-16,1.9693035,0.0,Interstitial,ad,1.9693035
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-17,4.2735075,0.0,Interstitial,ad,4.2735075
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-17,0.0,1.42,Unknown,cashout,-1.42
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-16,0.0,1.37,Unknown,cashout,-1.37
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-16,0.0,0.0,Unknown,ad,0.0
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-17,0.0,0.0,Unknown,ad,0.0
+41b25677-f4ef-4c94-9481-f5d5fdce3d3f,androidnd1order,us,android,2025-01-16,2025-01-17,2.057751,0.0,Rewarded Video,ad,2.057751
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-16,0.119716744,0.0,Banner,ad,0.119716744
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-23,0.018020017,0.0,Banner,ad,0.018020017
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-20,0.025668648,0.0,Banner,ad,0.025668648
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-23,0.1464964,0.0,Interstitial,ad,0.1464964
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-16,1.2896298,0.0,Interstitial,ad,1.2896298
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-20,0.08451,0.0,Interstitial,ad,0.08451
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-20,0.0,0.0,Unknown,ad,0.0
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-23,0.0,0.0,Unknown,ad,0.0
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-16,0.0,0.32,Unknown,cashout,-0.32
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-21,0.0,0.0,Unknown,ad,0.0
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-19,0.0,0.0,Unknown,ad,0.0
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-24,0.0,0.0,Unknown,ad,0.0
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-16,0.0,0.0,Unknown,ad,0.0
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-19,0.109052,0.0,Rewarded Video,ad,0.109052
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-23,0.0647083,0.0,Rewarded Video,ad,0.0647083
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-16,0.6966129,0.0,Rewarded Video,ad,0.6966129
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-20,0.106115,0.0,Rewarded Video,ad,0.106115
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-24,0.1195927,0.0,Rewarded Video,ad,0.1195927
+c3d11ca0-32d9-4057-a1f1-8ceae24bf762,androidnd7order,us,android,2025-01-16,2025-01-21,0.0724708,0.0,Rewarded Video,ad,0.0724708
+2643b648-1fb5-4794-8cb5-f139ad31d84f,androidnd7order,us,android,2025-01-16,2025-01-19,0.02631,0.0,Interstitial,ad,0.02631
+2643b648-1fb5-4794-8cb5-f139ad31d84f,androidnd7order,us,android,2025-01-16,2025-02-08,0.0,1.98,Unknown,cashout,-1.98
+2643b648-1fb5-4794-8cb5-f139ad31d84f,androidnd7order,us,android,2025-01-16,2025-01-16,0.0,0.0,Unknown,ad,0.0
+2643b648-1fb5-4794-8cb5-f139ad31d84f,androidnd7order,us,android,2025-01-16,2025-01-18,0.0,0.0,Unknown,ad,0.0
+2643b648-1fb5-4794-8cb5-f139ad31d84f,androidnd7order,us,android,2025-01-16,2025-01-18,4.389427,0.0,Unknown,offerwall,4.389427
+2643b648-1fb5-4794-8cb5-f139ad31d84f,androidnd7order,us,android,2025-01-16,2025-01-19,0.0,0.0,Unknown,ad,0.0
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-03-03,0.196419432,0.0,Banner,ad,0.196419432
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-03-05,0.00055,0.0,Banner,ad,0.00055
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-02-23,0.008977776,0.0,Banner,ad,0.008977776
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-01-19,0.115705976,0.0,Banner,ad,0.115705976
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-02-28,0.141888958,0.0,Banner,ad,0.141888958
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-01-26,0.014382293,0.0,Banner,ad,0.014382293
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-01-30,0.006724,0.0,Banner,ad,0.006724
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-01-24,0.023928857,0.0,Banner,ad,0.023928857
+ac0b3794-0af7-4e0e-9613-d684af209e1c,androidnd7order,us,android,2025-01-16,2025-03-01,0.1866071991,0.0,Banner,ad,0.1866071991
