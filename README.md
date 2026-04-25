@@ -1,3 +1,7 @@
+ يمكنكم تجربة الداشبورد والتفاعل مع البيانات من هنا:
+
+https://gsg--case-study---appuct-analyst-wy8t5uffxd8hrtpg3ybchm.streamlit.app/?fbclid=IwY2xjawRZPKJleHRuA2FlbQIxMABicmlkETFwRnpvbFU4b0wzWG43N1NQc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHknZ-pJZOKhNshA6HIwP2OROXIvwEQ4vlMsZJhVG4GZkPKVq9S0tSKZznmaK_aem_s6hTdFvW63ENeUDdWdQLgw
+
 تقرير تحليل البيانات للتطبيق
 1. تحميل ومعالجة البيانات
 
